@@ -1,0 +1,19 @@
+.searchBox {
+    margin-left: 0.5rem;
+    background-color: white;
+    border-radius: 0.3rem ;
+}
+
+.btnGrp{
+    margin-left: 4.5rem;
+}
+
+.parentBodyHeader{
+    padding: 1rem 0.5rem;
+}
+
+.refreshBtn{
+    color: white;
+    margin-left:1rem;
+}
+
