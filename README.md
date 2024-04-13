@@ -49,3 +49,5 @@ Data is visualized using grids and graphs to provide insights into invoice manag
 
 The app uses MySQL for storing invoice data. Data loading into the database is streamlined to ensure efficiency and reliability. The full-stack web application integrates the frontend and backend seamlessly, providing a cohesive user experience.
 
+![Alt text](UI-PART.png)
+
