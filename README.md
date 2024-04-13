@@ -1,6 +1,6 @@
 # B2B Invoice Management App
 
-![Invoice Management App Logo](link-to-your-logo)
+
 
 A B2B Invoice Management web application built using Java, Eclipse, MySQL, CSS, JavaScript, ReactJS, and Servlets. This app provides a comprehensive solution for managing invoices, offering functionalities like Add, Edit, Delete, Search, and Analytics view.
 
