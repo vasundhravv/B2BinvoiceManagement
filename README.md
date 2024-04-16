@@ -1,4 +1,4 @@
-# B2B Invoice Management App
+# B2B Invoice Management
 
 
 
